@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Zak's Notes"
+title = "Zak's Tech Notes"
 theme = "ananke"
 
 SectionPagesMenu = "main"
