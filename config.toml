@@ -1,4 +1,4 @@
-baseURL = "https://zak-hassan.github.io/"
+baseURL = "https://notes.zakhassan.me"
 languageCode = "en-us"
 title = "Zak's Tech Notes"
 theme = "ananke"
